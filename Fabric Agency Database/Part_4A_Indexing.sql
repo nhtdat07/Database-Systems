@@ -1,4 +1,4 @@
-USE ASSIGNMENT_7;
+USE ASSIGNMENT_2;
 ------------------------------------------------------------------------------------------------
 -- 4a - Generate 10 million bolts for each category --
 CREATE PROCEDURE add_bolt
